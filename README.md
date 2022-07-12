@@ -1,4 +1,4 @@
-# Automatic-Solar-Tracker-System
+# Automated-Solar-Tracker-System
 - Designed and Manufactured a Prototype of a Automatic Solar Tracker System.It traces the Path of the Sun
 throughout the day and give data of the position of sun according to the observation.This system is implemented
 over a Solar Panel in our prototype.This system is used enhance the Energy production by the Solar Panel.
